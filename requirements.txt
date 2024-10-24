@@ -1,0 +1,4 @@
+spotipy 
+cv2
+deepface
+tf-keras
